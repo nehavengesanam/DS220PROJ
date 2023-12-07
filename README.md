@@ -31,7 +31,6 @@ Identifying top-performing chains in terms of U.S. Systemwide Sales Growth Rate 
 ## Usage
 Loading the Dataset:
 Use the provided code to load the dataset into Pandas DataFrame or any preferred data analysis tool.
-fastfood_table = Table.read_table('Fastfood_USA.csv')
 Exploring the Data:
 Check for null values, explore columns, and perform data cleaning and preparation.
 Analysis and Insights:
